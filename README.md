@@ -10,8 +10,14 @@ In the fast-paced taxi booking sector, maximizing revenue is essential for long-
 Can customers be nudged toward payment methods that generate higher revenue for drivers — without negatively impacting their experience?
 
 ## 🎯 Objective
-  • Run an A/B test comparing average fares for card vs. cash payments
-  • Use descriptive statistics and hypothesis testing to extract actionable insights
-  • Provide data-driven recommendations for revenue optimization
+  #### • Run an A/B test comparing average fares for card vs. cash payments
+  #### • Use descriptive statistics and hypothesis testing to extract actionable insights
+  #### • Provide data-driven recommendations for revenue optimization
   
 <img width="803" height="389" alt="image" src="https://github.com/user-attachments/assets/d2fca68c-a556-485b-a819-1d829ce5f6b1" />
+
+## 🛠️ Tech Stack
+    Python — core analysis
+    Pandas — data manipulation
+    Matplotlib / Seaborn — visualization
+    SciPy / Statsmodels — statistical testing
