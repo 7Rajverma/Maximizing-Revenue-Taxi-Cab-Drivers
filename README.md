@@ -48,8 +48,7 @@ Statistics Project On Hypothesis Testing
     
 ## 🚀 Getting Started
         # Clone the repository
-    git clone https://github.com/your-username/taxi-revenue-analysis.git
-    cd taxi-revenue-analysis
+    git clone https://github.com/7Rajverma/Maximizing-Revenue-Taxi-Cab-Drivers/blob/main/Untitled1.ipynb
     
     # Install dependencies
     import pandas as pd 
