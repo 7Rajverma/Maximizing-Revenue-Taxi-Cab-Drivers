@@ -32,5 +32,38 @@ Statistics Project On Hypothesis Testing
     7. Dropped ~3.3M duplicate records
     8. Applied 1.5×IQR outlier removal on fare_amount, trip_distance, and duration
     
-<img width="920" height="324" alt="image" src="https://github.com/user-attachments/assets/4393eaa4-fd3c-459a-a9d2-f912a78620d5" />
+<img width="950" height="461" alt="image" src="https://github.com/user-attachments/assets/96510b66-e8b6-4a90-bf1a-5f1d38932c69" />
 
+<img width="990" height="537" alt="image" src="https://github.com/user-attachments/assets/a82fb950-5e1c-494c-b08d-e7d5885cab77" />
+
+## 💼 Business Recommendations
+    1. Promote card payments via in-app incentives or loyalty rewards for card-paying riders
+    2. Ensure working card terminals in all taxis to eliminate cash-only fallback situations
+    3. Display upfront fare estimates in card-enabled apps to attract higher-spending passengers
+    4. Track payment-type KPIs monthly to measure the impact of any policy changes on driver revenue
+
+## 📁 Project Structure
+    ├── Untitled1.ipynb       # Main analysis notebook
+    ├── README.md             # Project documentation
+    
+## 🚀 Getting Started
+        # Clone the repository
+    git clone https://github.com/your-username/taxi-revenue-analysis.git
+    cd taxi-revenue-analysis
+    
+    # Install dependencies
+    import pandas as pd 
+    import matplotlib.pyplot as plt
+    import seaborn as sns 
+    import numpy as np
+    import scipy.stats as st
+    from scipy import stats as st
+    import statsmodels.api as sm
+    import warnings 
+    warnings.filterwarnings('ignore')
+    
+    # Launch the notebook
+    jupyter notebook Untitled1.ipynb
+
+## 📌 Conclusion
+Statistical evidence confirms that credit card payments are associated with significantly higher fares in NYC yellow taxi trips. Encouraging card adoption is a low-friction, high-impact strategy for boosting driver revenue without changing the service experience.
